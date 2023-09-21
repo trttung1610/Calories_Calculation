@@ -1,6 +1,6 @@
 # Meal Calculation 
 
-title: Health
-sdk: gradio
-sdk_version: 3.34.0
-app_file: app.py
+title: Health <br />
+sdk: gradio <br />
+sdk_version: 3.34.0 <br />
+app_file: app.py <br />
